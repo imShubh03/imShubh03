@@ -7,7 +7,7 @@ A passionate fullstack developer from India.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sonake-410241231) 
-[![Naukri](https://img.shields.io/badge/Naukri-Profile-orange)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![Naukri](https://img.shields.io/badge/Naukri-Profile-orange?style=flat-square&logo=naukri)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shubham3102003?s=08) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/Shubham_S_S/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shubham17_?igsh=MTdlaGpjeTR6NzQ1aw==) 
