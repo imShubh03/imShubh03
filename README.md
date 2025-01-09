@@ -2,12 +2,12 @@
 A passionate fullstack developer from India.
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web App.<br>👯 I’m willing to collaborate on Full Stack Application.<br>🌱 I’m currently learning Java Fullstack Development.<br>💬 Ask me about DSA, Machine Learning and Full Stack Development.<br>⚡ Fun fact: There are over 700 coding languages😁<br>📫 Reach out to me shubhamsonake307@gmail.com<br>👤 Pronouns: He/Him
+👯 I’m willing to collaborate on Full Stack Application.<br>🌱 I’m currently learning Java Fullstack Development.<br>💬 Ask me about DSA, Machine Learning and Full Stack Development.<br>⚡ Fun fact: There are over 700 coding languages😁<br>📫 Reach out to me shubhamsonake307@gmail.com<br>👤 Pronouns: He/Him
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sonake-410241231) 
-[![Naukri](https://img.shields.io/badge/Naukri-Profile-orange?style=flat-square&logo=naukri)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![Naukri.com](https://img.shields.io/badge/Naukri-Profile-orange?style=flat-square&logo=naukri)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shubham3102003?s=08) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shubham17_?igsh=MTdlaGpjeTR6NzQ1aw==) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/ShubhS_3/)
