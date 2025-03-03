@@ -84,4 +84,27 @@
 
 <p align="left">My Coding Profiles👉 https://linktr.ee/shubh03</p>
 
-###
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imShubh03&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imShubh03&theme=dark" alt="GitHub Streak" />
+</div>
+
+### 🔝 Top Languages:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imShubh03&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+### 🐍 GitHub Contribution:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/imShubh03/imShubh03/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution" />
+</div>
+
+### 👀 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imShubh03&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+Let me know if you need any modifications! 🚀🔥
