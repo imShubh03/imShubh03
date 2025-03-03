@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/shubham-sonake-410241231" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="[https://twitter.com/shubh03](https://x.com/Shubham3102003)" target="_blank">
+  <a href="https://x.com/Shubham3102003" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/shubham_sonake_07" target="_blank">
