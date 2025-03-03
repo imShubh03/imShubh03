@@ -51,16 +51,16 @@
 
 <div align="left">
   <a href="https://leetcode.com/u/ShubhS_3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/shubh03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/geeksforgeeks/default.svg" width="52" height="40" alt="GeeksforGeeks" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="52" height="40" alt="GeeksforGeeks" />
   </a>
   <a href="https://www.codechef.com/users/imshubh03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codechef/default.svg" width="52" height="40" alt="CodeChef" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Codechef%28new%29_logo.svg" width="52" height="40" alt="CodeChef" />
   </a>
   <a href="https://www.codingninjas.com/codestudio/profile/ShubhamSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codingninjas/default.svg" width="52" height="40" alt="Coding Ninjas" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coding_Ninjas_Logo.png/600px-Coding_Ninjas_Logo.png" width="52" height="40" alt="Coding Ninjas" />
   </a>
 </div>
 
