@@ -59,9 +59,6 @@
   <a href="https://www.codechef.com/users/imshubh03" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Codechef%28new%29_logo.svg" width="52" height="40" alt="CodeChef" />
   </a>
-  <a href="https://www.codingninjas.com/codestudio/profile/ShubhamSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coding_Ninjas_Logo.png/600px-Coding_Ninjas_Logo.png" width="52" height="40" alt="Coding Ninjas" />
-  </a>
 </div>
 
 ###
