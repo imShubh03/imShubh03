@@ -45,6 +45,27 @@
 
 ###
 
+<h2 align="left">🖥️ My Coding Profiles</h2>
+
+###
+
+<div align="left">
+  <a href="https://leetcode.com/u/ShubhS_3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shubh03" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/geeksforgeeks/default.svg" width="52" height="40" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/imshubh03" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codechef/default.svg" width="52" height="40" alt="CodeChef" />
+  </a>
+  <a href="https://www.codingninjas.com/codestudio/profile/ShubhamSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codingninjas/default.svg" width="52" height="40" alt="Coding Ninjas" />
+  </a>
+</div>
+
+###
+
 <h2 align="left">💻 I code with</h2>
 
 ###
@@ -109,16 +130,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imShubh03&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-###
-
-<h2 align="left">🐍 GitHub Contribution Snake</h2>
-
-###
-
-<div align="left">
-  <img src="https://github.com/imShubh03/imShubh03/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution" />
 </div>
 
 ###
