@@ -2,7 +2,8 @@
 
 ###
 
-<h3 align="left">My name is Shubham Sonake and I'm a Developer from India</h3>
+<h3 align="left">Hi, I'm <strong>Shubham Sonake</strong>, a Developer from India.</h3>
+
 
 ###
 
@@ -63,7 +64,7 @@
 
 ###
 
-<h2 align="left">💻 I code with</h2>
+<h2 align="left">💻 I code using</h2>
 
 ###
 
